@@ -1,3 +1,11 @@
+
+![image](https://github.com/user-attachments/assets/78092ab4-758e-427b-9229-7303ab09b149)
+
+![image](https://github.com/user-attachments/assets/5f69f652-1aae-4380-942f-71bba9b770a0)
+
+
+
+
 # Story Rpc Scanner- Simple Setup Guide
 
 This project includes two main Python scripts: `prg.py` and `scan.py`. Here's a quick guide to what they do and how to set them up.
